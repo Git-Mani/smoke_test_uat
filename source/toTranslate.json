@@ -1,0 +1,15 @@
+{
+    "screens.completenessCheck.loadingText1": "Checking articles...",
+    "screens.completenessCheck.loadingText2": "Quantities are being checked...",
+    "screens.completenessCheck.loadingText3": "Prices will be recalculated...",
+    "screens.completenessCheck.loadingText4": "Customer information is being checked...",
+    "screens.completenessCheck.loadingText5": "Checking delivery address...",
+    "screens.completenessCheck.loadingText6": "Checking contacts...",
+    "screens.completenessCheck.loadingText7": "Contract term is being assessed...",
+    "screens.completenessCheck.loadingText8": "Checking billing address...",
+    "screens.completenessCheck.loadingText9": "Payment details are being proofread...",
+    "screens.completenessCheck.loadingText10": "Signatures are being checked...",
+    "screens.completenessCheck.loadingText11": "Checklists are being checked...",
+    "screens.completenessCheck.loadingText12": "Different contract details are compared…",
+    "screens.completenessCheck.loadingText13": "Probation periods are being checked..."
+}
