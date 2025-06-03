@@ -1,5 +1,5 @@
 {
-  "screens.completenessCheck.loadingText1": "Vérification des articles data test...",
+  "screens.completenessCheck.loadingText1": "Vérification des articles...",
   "screens.completenessCheck.loadingText2": "Les quantités sont en cours de vérification...",
   "screens.completenessCheck.loadingText3": "Les prix seront recalculés...",
   "screens.completenessCheck.loadingText4": "Les informations client sont en cours de vérification...",
@@ -13,5 +13,5 @@
   "screens.completenessCheck.loadingText10": "Les signatures sont en cours de vérification...",
   "screens.completenessCheck.loadingText11": "Les listes de contrôle sont en cours de vérification...",
   "screens.completenessCheck.loadingText12": "Différents détails du contrat sont comparés…",
-  "screens.completenessCheck.loadingText13": "Les périodes de probation sont en cours de vérification mettre à jour le fichier de données de test..."
+  "screens.completenessCheck.loadingText13": "Les périodes de probation sont en cours de vérification mettre à jour les données du fichier de données de test utilisation des données d'échantillon..."
 }
