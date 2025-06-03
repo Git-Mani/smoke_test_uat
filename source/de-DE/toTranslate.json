@@ -1,15 +1,14 @@
 {
-  "screens.completenessCheck.loadingText1": "Checking articles...",
-  "screens.completenessCheck.loadingText2": "Quantities are being checked...",
-  "screens.completenessCheck.loadingText3": "Prices will be recalculated...",
-  "screens.completenessCheck.loadingText4": "Customer information is being checked...",
-  "screens.completenessCheck.loadingText5": "Checking delivery address...",
-  "screens.completenessCheck.loadingText6": "Checking contacts...",
-  "screens.completenessCheck.loadingText7": "Contract term is being assessed...",
-  "screens.completenessCheck.loadingText8": "Checking billing address...",
-  "screens.completenessCheck.loadingText9": "Payment details are being proofread...",
-  "screens.completenessCheck.loadingText10": "Signatures are being checked...",
-  "screens.completenessCheck.loadingText11": "Checklists are being checked...",
-  "screens.completenessCheck.loadingText12": "Different contract details are compared…",
-  "screens.completenessCheck.loadingText13": "Probation periods are being checked..."
+  „screens.completenessCheck.loadingText1“: „Artikel werden überprüft…“,
+  „screens.completenessCheck.loadingText2“: „Mengen werden geprüft…“,
+  „screens.completenessCheck.loadingText3“: „Preise werden neu berechnet…“,
+  „screens.completenessCheck.loadingText4“: „Kundeninformationen werden überprüft…“,
+  „screens.completenessCheck.loadingText5“: „Lieferadresse wird überprüft…“,
+  „screens.completenessCheck.loadingText6“: „Kontakte werden überprüft…“,
+  „screens.completenessCheck.loadingText7“: „Vertragslaufzeit wird bewertet …“,
+  „screens.completenessCheck.loadingText8“: „Rechnungsadresse wird überprüft …“,
+  „screens.completenessCheck.loadingText9“: „Zahlungsdetails werden Korrektur gelesen…“,
+  „screens.completenessCheck.loadingText11“: „Checklisten werden überprüft…“,
+  „screens.completenessCheck.loadingText12“: „Verschiedene Vertragsdetails werden verglichen…“,
+  „screens.completenessCheck.loadingText13“: „Probezeiten werden überprüft …“
 }
