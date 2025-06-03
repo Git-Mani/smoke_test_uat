@@ -3,7 +3,7 @@
   "screens.completenessCheck.loadingText2": "Mengen werden geprüft…",
   "screens.completenessCheck.loadingText3": "Preise werden neu berechnet…",
   "screens.completenessCheck.loadingText4": "Kundeninformationen werden überprüft…",
-  "screens.completenessCheck.loadingText5": "Lieferadresse wird überprüft",
+  "screens.completenessCheck.loadingText": "Lieferadresse wird überprüft",
   "screens.completenessCheck.loadingText6": "Kontakte werden überprüf",
   "screens.completenessCheck.loadingText7": "Vertragslaufzeit wird bewertet",
   "screens.completenessCheck.loadingText8": "Rechnungsadresse wird überprüf",
